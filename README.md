@@ -1,4 +1,3 @@
-
 👋 Hi, I’m @Shimon asulin.<br/>
 👀 I’m interested in Web Development && User experience.<br>
 🌱 I’m currently learning Full Stuck
